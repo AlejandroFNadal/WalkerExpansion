@@ -1,7 +1,7 @@
-import logisticMap
-from bifurcationDiagram import *
+from logisticMap import *
+# from bifurcationDiagram import *
 
 
 def main(self):
-    bifurcationDiagram
-    logisticMap
+    # bifurcationDiagram
+    logisticMap(0.1, 3, 10)
