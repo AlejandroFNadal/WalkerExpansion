@@ -63,3 +63,5 @@ for epsilon in Epsilon_list:
 
 plt.plot(x[0],y[1],'rs',x[1],y[1],'bs',x[2],y[2],'gs',x[3],y[3],'cs',x[4],y[4],'ms',x[5],y[5],'ys',x[6],y[6],'rs',x[7],y[7],'k+',markersize=0.5)
 plt.show()
+
+#Part Three here
